@@ -47,9 +47,9 @@ profiles:
 ###    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - AIGC, Artificial Intelligence
+  - 分布式计算和存储
+  - 云原生 kubernetes
 
 education:
   - area: PhD Artificial Intelligence

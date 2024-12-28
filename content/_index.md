@@ -32,6 +32,27 @@ sections:
           parallax: false
 
   - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+            📚 [《基础架构-云原生》](https://www6v.github.io/www6vCloudNative/) 电子书  
+
+            📚 [《基础架构-中间件》](https://www6v.github.io/www6vMiddleware/) 电子书  
+
+            📚 [《AIGC-应用》](https://www6v.github.io/www6vAIGC/) 电子书  
+
+            📚 [《分布式计算和存储》](https://www6v.github.io/www6vHomeHexo/)  技术博客  
+            
+            📚 [《AIGC》](https://www6v.github.io/www6vHomeAIGC/) 技术博客  
+
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+      design:
+        view: citation
+
+  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -43,26 +64,6 @@ sections:
       view: article-grid
       columns: 2
 
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-            📚 [《基础架构-云原生》](https://www6v.github.io/www6vCloudNative/) 电子书
-
-            📚 [《基础架构-中间件》](https://www6v.github.io/www6vMiddleware/) 电子书
-
-            📚 [《AIGC-应用》](https://www6v.github.io/www6vAIGC/) 电子书
-
-            📚 [Optimization for Large Language Model Inference Serving: from Algorithms to Systems](https://pan.quark.cn/s/d3abb1b549b2)   博士论文  
-
-            📚 [《分布式服务治理框架的原理与实现》](https://www6v.github.io/www6vHome/yan.html)  硕士论文
-
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-      design:
-        view: citation
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
