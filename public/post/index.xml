@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | www6v CV</title>
-    <link>http://localhost:1313/www6vPageHugo/post/</link>
-      <atom:link href="http://localhost:1313/www6vPageHugo/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/www6vPage/post/</link>
+      <atom:link href="http://localhost:1313/www6vPage/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/www6vPageHugo/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/www6vPage/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
-      <link>http://localhost:1313/www6vPageHugo/post/</link>
+      <link>http://localhost:1313/www6vPage/post/</link>
     </image>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/www6vPageHugo/post/get-started/</link>
+      <link>http://localhost:1313/www6vPage/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/post/get-started/</guid>
+      <guid>http://localhost:1313/www6vPage/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 &lt;p&gt;{{}}&lt;/p&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -73,9 +73,9 @@
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1313/www6vPageHugo/post/second-brain/</link>
+      <link>http://localhost:1313/www6vPage/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/post/second-brain/</guid>
+      <guid>http://localhost:1313/www6vPage/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -170,9 +170,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/www6vPageHugo/post/data-visualization/</link>
+      <link>http://localhost:1313/www6vPage/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/post/data-visualization/</guid>
+      <guid>http://localhost:1313/www6vPage/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -283,9 +283,9 @@ Crash --&amp;gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/www6vPageHugo/post/teach-courses/</link>
+      <link>http://localhost:1313/www6vPage/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/post/teach-courses/</guid>
+      <guid>http://localhost:1313/www6vPage/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -356,9 +356,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/www6vPageHugo/post/project-management/</link>
+      <link>http://localhost:1313/www6vPage/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/post/project-management/</guid>
+      <guid>http://localhost:1313/www6vPage/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;

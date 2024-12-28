@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>www6v CV</title>
-    <link>http://localhost:1313/www6vPageHugo/</link>
-      <atom:link href="http://localhost:1313/www6vPageHugo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/www6vPage/</link>
+      <atom:link href="http://localhost:1313/www6vPage/index.xml" rel="self" type="application/rss+xml" />
     <description>www6v CV</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/www6vPageHugo/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/www6vPage/media/icon_hu7729264130191091259.png</url>
       <title>www6v CV</title>
-      <link>http://localhost:1313/www6vPageHugo/</link>
+      <link>http://localhost:1313/www6vPage/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/www6vPageHugo/event/example/</link>
+      <link>http://localhost:1313/www6vPage/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/event/example/</guid>
+      <guid>http://localhost:1313/www6vPage/event/example/</guid>
       <description>&lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
@@ -30,17 +30,17 @@
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/www6vPageHugo/projects/</link>
+      <link>http://localhost:1313/www6vPage/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/projects/</guid>
+      <guid>http://localhost:1313/www6vPage/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/www6vPageHugo/post/get-started/</link>
+      <link>http://localhost:1313/www6vPage/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/post/get-started/</guid>
+      <guid>http://localhost:1313/www6vPage/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 &lt;p&gt;{{}}&lt;/p&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -97,33 +97,33 @@
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/www6vPageHugo/project/pandas/</link>
+      <link>http://localhost:1313/www6vPage/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/project/pandas/</guid>
+      <guid>http://localhost:1313/www6vPage/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/www6vPageHugo/project/pytorch/</link>
+      <link>http://localhost:1313/www6vPage/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/project/pytorch/</guid>
+      <guid>http://localhost:1313/www6vPage/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:1313/www6vPageHugo/project/scikit/</link>
+      <link>http://localhost:1313/www6vPage/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/project/scikit/</guid>
+      <guid>http://localhost:1313/www6vPage/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1313/www6vPageHugo/post/second-brain/</link>
+      <link>http://localhost:1313/www6vPage/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/post/second-brain/</guid>
+      <guid>http://localhost:1313/www6vPage/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -218,9 +218,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/www6vPageHugo/post/data-visualization/</link>
+      <link>http://localhost:1313/www6vPage/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/post/data-visualization/</guid>
+      <guid>http://localhost:1313/www6vPage/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -331,9 +331,9 @@ Crash --&amp;gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/www6vPageHugo/post/teach-courses/</link>
+      <link>http://localhost:1313/www6vPage/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/post/teach-courses/</guid>
+      <guid>http://localhost:1313/www6vPage/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -404,17 +404,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/www6vPageHugo/experience/</link>
+      <link>http://localhost:1313/www6vPage/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/experience/</guid>
+      <guid>http://localhost:1313/www6vPage/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/www6vPageHugo/post/project-management/</link>
+      <link>http://localhost:1313/www6vPage/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/post/project-management/</guid>
+      <guid>http://localhost:1313/www6vPage/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -487,10 +487,10 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/www6vPageHugo/publication--/preprint--/</link>
+      <link>http://localhost:1313/www6vPage/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/publication--/preprint--/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/www6vPageHugo/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>http://localhost:1313/www6vPage/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/www6vPage/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;p&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/p&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -498,9 +498,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:1313/www6vPageHugo/publication--/journal-article--/</link>
+      <link>http://localhost:1313/www6vPage/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/publication--/journal-article--/</guid>
+      <guid>http://localhost:1313/www6vPage/publication/journal-article/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 &lt;p&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/p&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
@@ -509,9 +509,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:1313/www6vPageHugo/publication--/conference-paper--/</link>
+      <link>http://localhost:1313/www6vPage/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/www6vPageHugo/publication--/conference-paper--/</guid>
+      <guid>http://localhost:1313/www6vPage/publication/conference-paper/</guid>
       <description></description>
     </item>
     
