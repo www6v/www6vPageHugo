@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Arch
+role: 软件架构师
 
 # Organizations/Affiliations to display in Biography blox
 ### organizations:
@@ -31,14 +31,14 @@ role: Arch
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:www6v@126.com'
     label: E-mail Me
 ###  - icon: brands/x
 ###    url: https://twitter.com/GetResearchDev
 ###  - icon: brands/instagram
 ###    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/www6v
 ###  - icon: brands/linkedin
 ###    url: https://www.linkedin.com/
 ###  - icon: academicons/google-scholar
@@ -47,12 +47,12 @@ profiles:
 ###    url: https://orcid.org/
 
 interests:
-  - AIGC, Artificial Intelligence
+  - AIGC, LLM, Multimodal
   - 分布式计算和存储
   - 云原生 kubernetes
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD - Artificial Intelligence
     institution: UCAM
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: Master - Computer Science
     institution: 武汉大学
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: Bachelor - Computer Science
     institution: 上海交通大学
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -183,4 +183,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+软件架构师,  研发工程师
+
+关注 AIGC/基础架构师中间件/云原生/大数据/分布式计算和存储等。
