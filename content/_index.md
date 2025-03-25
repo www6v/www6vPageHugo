@@ -39,7 +39,9 @@ sections:
 
             📚 [《基础架构-中间件》](https://www6v.github.io/www6vMiddleware/) 电子书  
 
-            📚 [《AIGC-应用》](https://www6v.github.io/www6vAIGC/) 电子书  
+            📚 [《AIGC-应用》](https://www6v.github.io/www6vAIGC/) 电子书
+            
+            📚 [《语言与算法》](https://www6v.github.io/www6vLang/) 电子书
 
             📚 [《分布式计算和存储》](https://www6v.github.io/www6vHomeHexo/)  技术博客  
             
