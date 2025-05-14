@@ -35,18 +35,17 @@ sections:
     content:
       title: Recent Publications
       text: |-
-            📚 [《基础架构-云原生》](https://www6v.github.io/www6vCloudNative/) 电子书  
-
-            📚 [《基础架构-中间件》](https://www6v.github.io/www6vMiddleware/) 电子书  
-
-            📚 [《AIGC-应用》](https://www6v.github.io/www6vAIGC/) 电子书
+            **阶段一** 📚  [《语言与算法》](https://www6v.github.io/www6vLang/) *电子书*
             
-            📚 [《语言与算法》](https://www6v.github.io/www6vLang/) 电子书
+            **阶段二** 📚 [《基础架构-云原生》](https://www6v.github.io/www6vCloudNative/) *电子书*  
 
-            📚 [《分布式计算和存储》](https://www6v.github.io/www6vHomeHexo/)  技术博客  
+            **阶段二** 📚 [《基础架构-中间件》](https://www6v.github.io/www6vMiddleware/) *电子书*  
+
+            **阶段二**  [《分布式计算和存储》](https://www6v.github.io/www6vHomeHexo/)  *技术博客*  
             
-            📚 [《AIGC》](https://www6v.github.io/www6vHomeAIGC/) 技术博客  
-
+            **阶段三** 📚 [《基于LLM的系统设计与实现》](https://www6v.github.io/www6vAIGC/) *电子书*
+            
+            **阶段三**  [《AIGC》](https://www6v.github.io/www6vHomeAIGC/) *技术博客*              
       filters:
         folders:
           - publication
