@@ -44,6 +44,8 @@ sections:
             **阶段二**  [《分布式计算和存储》](https://www6v.github.io/www6vHomeHexo/)  *技术博客*  
             
             **阶段三** 📚 [《基于LLM的系统设计与实现》](https://www6v.github.io/www6vAIGC/) *电子书*
+
+            **阶段三** 📚 [《MLSys:LLM基石》](https://www6v.github.io/www6vMLSys/) *电子书*
             
             **阶段三**  [《AIGC》](https://www6v.github.io/www6vHomeAIGC/) *技术博客*              
       filters:
