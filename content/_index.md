@@ -39,7 +39,9 @@ sections:
             
             **阶段二** 📚 [《基础架构-云原生》](https://www6v.github.io/www6vCloudNative/) *电子书*  
 
-            **阶段二** 📚 [《基础架构-中间件》](https://www6v.github.io/www6vMiddleware/) *电子书*  
+            **阶段二** 📚 [《基础架构-中间件》](https://www6v.github.io/www6vMiddleware/) *电子书*
+
+            **阶段二** 📚 [《分布式系统》](https://www6v.github.io/www6vDistributed/) *电子书*  
 
             **阶段二**  [《分布式计算和存储》](https://www6v.github.io/www6vHomeHexo/)  *技术博客*  
             
