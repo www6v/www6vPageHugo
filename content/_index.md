@@ -49,6 +49,8 @@ sections:
 
             **阶段三** 📚 [《MLSys:LLM基石》](https://www6v.github.io/www6vMLSys/) *电子书*
             
+            **阶段三** 📚 [《LLM算法》](https://www6v.github.io/www6vAlgo/) *电子书*
+            
             **阶段三**  [《AIGC》](https://www6v.github.io/www6vHomeAIGC/) *技术博客*              
       filters:
         folders:
